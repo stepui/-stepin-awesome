@@ -1,2 +1,2 @@
-# -stepin-awesome
+# stepin-awesome
 the awesome build with stepin
